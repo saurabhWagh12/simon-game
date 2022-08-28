@@ -51,3 +51,18 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.restartbtn{
+  height: 40px;
+  width: 80px;
+  background-color: beige;
+  box-shadow: 0 0 20px grey;
+
+}
+
+.Footer{
+  margin-top: 20px;
+  color: azure;
+  font-family: fantasy;
+  font-size: large;
+}
